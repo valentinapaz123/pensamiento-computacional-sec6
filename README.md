@@ -12,4 +12,4 @@ ejercicios y entregas códigos para curso
 
 - [link](https://levanova.es/receta-de-pan-rustico/)
 
-![imagen](https://levanova.es/wp-content/uploads/2023/05/Pan-rustico-de-Levanova-scaled.jpg) 
+![imagen](https://i.blogs.es/512fb8/pan_comun/650_1200.jpg) 
